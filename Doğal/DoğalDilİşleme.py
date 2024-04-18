@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-datas = pd.read_csv('C:/Users/ilker/Desktop/PythonML/Restaurant_Reviews.csv',delimiter='\t')
+datas = pd.read_csv('Restaurant_Reviews.csv',delimiter='\t')
 
 
 
