@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 18 21:29:15 2024
-
-@author: ilker
+@author: AuroraDuke
 """
 import numpy as np
 import matplotlib.pyplot as plt
